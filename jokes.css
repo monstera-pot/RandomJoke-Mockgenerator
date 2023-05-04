@@ -1,0 +1,41 @@
+* {
+  font-family: Courier New;
+}
+body {
+  font-size: 23px;
+  margin: 40px auto;
+  line-height: 1.4;
+  background-color: #fafafa;
+  margin-left: 15px;
+}
+
+button {
+  color: #181a18;
+  font-size: 23px;
+  background: #fafafa;
+  padding: 10px 20px;
+  border: solid #181a18 3px;
+  text-decoration: none;
+}
+
+button:hover {
+  background-color: #00bce3;
+}
+
+#dog:hover {
+  background: #fff200;
+}
+
+#cow:hover {
+  background: #d9017a;
+}
+
+input {
+  font-size: 23px;
+  margin-bottom: 20px;
+}
+
+button:hover {
+  text-decoration: none;
+  cursor: pointer;
+}
